@@ -11,6 +11,7 @@ Date:   Wed Aug 30 10:46:14 2023 -0400
     added hometown
 
 commit 09cca2522ec79ac4696e5b077f6eb8adc5cb1d78
+Author: Yoel Buzgalo (RIT Student) <ybb5956@rit.edu>
 Date:   Wed Aug 30 10:30:43 2023 -0400
 
     added day of the week
