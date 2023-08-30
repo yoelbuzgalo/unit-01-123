@@ -1,0 +1,29 @@
+commit c99cea7b8dc833b0433f0e7ccf102444632c577b
+Author: Yoel Buzgalo (RIT Student) <ybb5956@rit.edu>
+Date:   Wed Aug 30 10:59:47 2023 -0400
+
+    added screenshot
+
+commit 31a52749ccecb403ae3c263fd376bb3ff36265de
+Author: Yoel Buzgalo (RIT Student) <ybb5956@rit.edu>
+Date:   Wed Aug 30 10:46:14 2023 -0400
+
+    added hometown
+
+commit 09cca2522ec79ac4696e5b077f6eb8adc5cb1d78
+Author: Yoel Buzgalo (RIT Student) <ybb5956@rit.edu>
+Date:   Wed Aug 30 10:30:43 2023 -0400
+
+    added day of the week
+
+commit c0c3fa0f0d5cc5f2d8d0d0110c01e9a4c2e4e2f9
+Author: Yoel Buzgalo (RIT Student) <ybb5956@rit.edu>
+Date:   Wed Aug 30 10:24:50 2023 -0400
+
+    initial commit
+
+commit 4e72189ece9eee4a46a6d9c74ada3445f2ca6d21
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Tue Aug 29 01:07:13 2023 +0000
+
+    Initial commit
