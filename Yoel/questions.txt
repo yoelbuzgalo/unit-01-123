@@ -3,3 +3,7 @@ Yoel Baer Buzgalo
 What happened?
 
 After creating a directory locally using git status before adding, it mentioned that there was nothing untracked. Regardless, after attempting to add it then committing it, it said that there was nothing to commit and pushing it also said "everything is up-to-date" rather an upload information. The remote repository does not have the new directory I made. 
+
+What happened after moving questions.txt to /yoel?
+
+Using git status, it recognized that there was changes when moving questions.txt to the /yoel directory. The remote repository did update with a new directory and the questions.txt inside it. However, it still retains a copy of "questions.txt" in the root directory of the repository. I think this happens because to delete files, you will need to git add even deleted files and commit that change, git does not automatically track "mv" (moving files) actions.
