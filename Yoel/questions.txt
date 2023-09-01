@@ -1,0 +1,5 @@
+Yoel Baer Buzgalo
+
+What happened?
+
+After creating a directory locally using git status before adding, it mentioned that there was nothing untracked. Regardless, after attempting to add it then committing it, it said that there was nothing to commit and pushing it also said "everything is up-to-date" rather an upload information. The remote repository does not have the new directory I made. 
